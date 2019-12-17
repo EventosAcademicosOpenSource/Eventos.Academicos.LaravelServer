@@ -2,9 +2,9 @@
 
 Servidor Laravel PHP para cadastro de eventos acadêmicos.
 
-![](https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen1.png| width=300)
-![](https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen2.png| width=300)
+<img src="https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen1.png" width="200" />
 
+<img src="https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen2.png" width="200" />
 
 
 ## Requisitos
