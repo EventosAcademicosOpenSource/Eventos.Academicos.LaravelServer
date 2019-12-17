@@ -2,6 +2,7 @@
 
 Servidor Laravel PHP para cadastro de eventos acadêmicos.
 
+
 ## Requisitos
 
 - [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -32,7 +33,7 @@ php artisan serve
 - Firebase, no arquivo .env configurar:
   `FCM_SERVER_KEY=`
 
-- Configurar s3, .env:
+- Configurar s3 que é utilizado para guardar as imagens, modificar o .env:
 
   ```sh
   AWS_ACCESS_KEY_ID=
