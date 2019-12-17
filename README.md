@@ -58,7 +58,7 @@ php artisan serve
   AWS_DEFAULT_REGION=
   AWS_SECRET_ACCESS_KEY=
   ```
-- Se não desejar utilizar a s3 para armazenar as imagens tem que reconfigurar os projetos nos arquivos que fazem os uploads.
+- Se não desejar utilizar a s3 para armazenar as imagens tem que reconfigurar os arquivos que fazem os uploads de capas.
 
 ## Acesso padrão
 
