@@ -1,6 +1,6 @@
 # Eventos.Academicos.LaravelServer
 
-Servidor Laravel PHP para cadastro de eventos acadêmicos.
+Servidor Laravel PHP para cadastro de eventos acadêmicos. Ele foi desenvolvido para ser consumido por [este](https://github.com/EventosAcademicosOpenSource/Eventos.Academicos.Ionic) aplicativo mobile cliente. 
 
 <img src="https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen1.png" width="600" /><img src="https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen2.png" width="600" /><img src="https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen3.png" width="600" /><img src="https://raw.githubusercontent.com/EventosAcademicosOpenSource/Eventos.Academicos.LaravelServer/master/public/images/project/screen4.png" width="600" />
 
