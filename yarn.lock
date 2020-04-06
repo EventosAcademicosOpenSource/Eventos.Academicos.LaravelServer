@@ -1219,9 +1219,9 @@ boom@2.x.x:
   dependencies:
     hoek "2.x.x"
 
-bootstrap-daterangepicker@^2.1.30:
-  version "2.1.30"
-  resolved "https://registry.yarnpkg.com/bootstrap-daterangepicker/-/bootstrap-daterangepicker-2.1.30.tgz#f893dbfff5a4d7dfaab75460e8ea6969bb89689a"
+bootstrap-daterangepicker@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/bootstrap-daterangepicker/-/bootstrap-daterangepicker-3.0.5.tgz#dc10db6b4854cc63ebb5b17dac55edd7318dcbad"
   dependencies:
     jquery ">=1.10"
     moment "^2.9.0"
